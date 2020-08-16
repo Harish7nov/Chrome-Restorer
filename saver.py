@@ -29,7 +29,7 @@ and use them in the code below for the click function
 
 
 # Specify the path for the text file containing the links
-path = r"D:\Coding files\PYTHON\Chrome Automation\links.txt"
+path = r"<path to the txt file to save all the links>"
 
 # Wait for some time to change to the chrome browser
 time.sleep(5)
