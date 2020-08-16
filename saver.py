@@ -2,6 +2,12 @@ import pyautogui
 import time
 import pyperclip
 
+# Giving time for the user to open the chrome tab and place the cursor on the address bar
+
+# time.sleep(5)
+# print(pyautogui.position())
+
+
 '''
 
 When you are running the script for the first time
@@ -15,11 +21,6 @@ The index values of the cursor would be printed in the console
 and use them in the code below for the click function
 
 '''
-
-# Giving time for the user to open the chrome tab and place the cursor on the address bar
-
-# time.sleep(5)
-# print(pyautogui.position())
 
 
 # Specify the path for the text file containing the links
