@@ -3,9 +3,9 @@ A simple Python project to save and restore the opened websites in all the tabs 
 
 I generally work with a lot of chrome tabs containing tons of information for me to study later.
 
-Most of the web browsers out there do provide an option to restore the window that was closed previously, but once I unknowingly I finally closed the second chrome window and lost all the tabs on the first window.
+Most of the web browsers out there do provide an option to restore the window that was closed previously, but once I unknowingly closed the second Chrome window finally and lost all the tabs on the first window because I was not able to restore the first window since the second window was closed finally.
 
-In order to overcome this problem I created a simple python project to save and restore all the tabs.
+In order to overcome this problem I ended up creating this project.
 
 # How to use it?
 
