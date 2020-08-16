@@ -3,17 +3,6 @@ import time
 import pyperclip
 
 '''
-Position of the link bar in chrome for my lap screen 
-(665, 81)
-'''
-
-# Giving time for the user to open the chrome tab and place the cursor on the address bar
-
-# time.sleep(5)
-# print(pyautogui.position())
-
-
-'''
 
 When you are running the script for the first time
 then comment the below part of the code completely to get the
@@ -26,6 +15,11 @@ The index values of the cursor would be printed in the console
 and use them in the code below for the click function
 
 '''
+
+# Giving time for the user to open the chrome tab and place the cursor on the address bar
+
+# time.sleep(5)
+# print(pyautogui.position())
 
 
 # Specify the path for the text file containing the links
