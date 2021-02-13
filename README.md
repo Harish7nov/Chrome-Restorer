@@ -10,7 +10,7 @@ In order to overcome this problem I ended up creating this project.
 # How to use it?
 
 First of all note the position of the mouse cursor to be pointed on the address bar of the browser that you wish to use.
-To do so, dollow the instructions in saver.py
+To do so, follow the instructions in saver.py
 
 Once all the links are saved, then you can direcly run restore.py to restore all the saved links.
 
